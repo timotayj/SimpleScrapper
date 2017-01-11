@@ -1,5 +1,7 @@
 # SimpleScrapper
 
+
+Backbone from here: https://scotch.io/tutorials/scraping-the-web-with-node-js
 node server.js
 
 visit "localhost:8080/scrapper"
